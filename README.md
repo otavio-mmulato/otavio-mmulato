@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1100&color=9280F7&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## Hi there, I'm Otavio Mulato 👋
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ2cGlnOTB1bm9yMmlyY3NlcjU3MGJ3OHF6ZndvZnp0aGhsdWM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pqAaTAgqjQM8/giphy.gif" alt="Programmation" width="200" />
+<img align="right" src="https://64.media.tumblr.com/21069fb125b45a1a5c8fa1e071f507d9/5c7716a043f2a770-b0/s250x400/d6fc3cd99d63cb46cee9082c4d9ff9c5006b79a3.gifv" alt="Programmation" width="200" />
 
 I'm in the final semester of my technical program in System Development at SENAI. I’m deeply motivated by curiosity and a strong desire to continuously learn and grow. As I begin my journey as a developer, I’m eager to take on new challenges and absorb knowledge from every opportunity. My mission is to grow both personally and professionally—crafting my own path and leaving a mark on the world, one line of code at a time.
 
