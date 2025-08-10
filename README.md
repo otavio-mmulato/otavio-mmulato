@@ -7,10 +7,10 @@ I'm in the final semester of my technical program in System Development at SENAI
 ---
 
 ### 💻 About me:
-- Systems Analysis and Development student at SENAI  
-- 🎨 I create desktop websites to stay consistent and functional  
-- 🐦‍🔥 Fun fact: I usually use my cockatiel's name as a variable in my code (e.g., diananumber)  
-- 📖 I usually expand my knowledge through courses, YouTube videos, and developer blog posts  
+👾Systems Analysis and Development student at SENAI  
+🎨 I create desktop websites to stay consistent and functional  
+🐦‍🔥 Fun fact: I usually use my cockatiel's name as a variable in my code (e.g., diananumber)  
+📖 I usually expand my knowledge through courses, YouTube videos, and developer blog posts  
 
 ---
 
