@@ -44,7 +44,7 @@ I'm in the final semester of my technical program in System Development at SENAI
 ---
 
 ### 📊 GitHub stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-mmulato&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviommulato&layout=compact&theme=dracula)
 
 ---
 
